@@ -1,0 +1,15 @@
+.btn {
+	margin: 8px;
+}
+.texto1 {
+
+	text-align: center;
+}
+.container-fluid {
+	background-color: whitesmoke ;
+	border-radius: 15px;
+	padding: 10px;
+}
+.btn {
+	margin-left: 5px;
+}
